@@ -17,14 +17,6 @@ var swfobject=function(){var D="undefined",r="object",S="Shockwave Flash",W="Sho
 
 }
 /*
-     FILE ARCHIVED ON 05:11:37 Nov 17, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 15:52:24 May 19, 2024.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
 playback timings (ms):
   captures_list: 3.154
   exclusion.robots: 0.086
