@@ -98,14 +98,6 @@ function getElement(p_id) {
 
 }
 /*
-     FILE ARCHIVED ON 11:46:13 Nov 16, 2011 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 15:52:58 May 19, 2024.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
 playback timings (ms):
   captures_list: 0.769
   exclusion.robots: 0.071
